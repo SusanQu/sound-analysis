@@ -8,7 +8,7 @@ As an artist, I had always been intrigued sounds, as it is such a crucial part o
 
 <h3>Process</h3>
 
-This project consists of 4 parts. The 1st part focuses on visualising the audio data and gaining general knowledge of the LibRosa library. The 2nd part looks into any feature extraction of the sound file. The 3rd part focuses on training the model and the last part creates the AI generated sounds.
+This project consists of 4 parts. The 1st part focuses on visualising the audio data and gaining general knowledge of the LibRosa library. The 2nd part looks into feature extraction of the sound file. The 3rd part focuses on training the model and the last part creates the AI generated sounds.
 
 <b> *This project is current work in progress.* </b>  
 
