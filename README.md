@@ -1,4 +1,4 @@
-# sound-analysis
+Sound Analysis
 
 #Motivation for this project:
 
@@ -7,5 +7,4 @@ Plot audio files through in spectrograms.
 Further manipulate the audio file based on findings.
 Gain general knowledge of LibRosa library.
 
-Jupyter Notebook with visualizations is available through Nbviewer:
-(link coming up soon)
+Checkout the Notebook [HERE](https://nbviewer.jupyter.org/github/SusanQu/sound-analysis/blob/main/sound_analysis.ipynb) (via nbviewer)
